@@ -1,9 +1,0 @@
-/Users/maksim/Documents/Work/Code/Rust/iShelt/my-redis/target/debug/deps/libderanged-5080dceb7fb4087a.rmeta: /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deranged-0.3.11/src/lib.rs /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deranged-0.3.11/src/traits.rs /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deranged-0.3.11/src/unsafe_wrapper.rs
-
-/Users/maksim/Documents/Work/Code/Rust/iShelt/my-redis/target/debug/deps/libderanged-5080dceb7fb4087a.rlib: /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deranged-0.3.11/src/lib.rs /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deranged-0.3.11/src/traits.rs /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deranged-0.3.11/src/unsafe_wrapper.rs
-
-/Users/maksim/Documents/Work/Code/Rust/iShelt/my-redis/target/debug/deps/deranged-5080dceb7fb4087a.d: /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deranged-0.3.11/src/lib.rs /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deranged-0.3.11/src/traits.rs /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deranged-0.3.11/src/unsafe_wrapper.rs
-
-/Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deranged-0.3.11/src/lib.rs:
-/Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deranged-0.3.11/src/traits.rs:
-/Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deranged-0.3.11/src/unsafe_wrapper.rs:
