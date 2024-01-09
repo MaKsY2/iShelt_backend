@@ -1,0 +1,13 @@
+/Users/maksim/Documents/Work/Code/Rust/iShelt/my-redis/target/debug/deps/libtoml-fc33189491107db7.rmeta: /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/lib.rs /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/map.rs /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/value.rs /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/de.rs /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/ser.rs /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/macros.rs /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/edit.rs /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/fmt.rs /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/table.rs
+
+/Users/maksim/Documents/Work/Code/Rust/iShelt/my-redis/target/debug/deps/toml-fc33189491107db7.d: /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/lib.rs /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/map.rs /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/value.rs /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/de.rs /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/ser.rs /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/macros.rs /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/edit.rs /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/fmt.rs /Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/table.rs
+
+/Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/lib.rs:
+/Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/map.rs:
+/Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/value.rs:
+/Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/de.rs:
+/Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/ser.rs:
+/Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/macros.rs:
+/Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/edit.rs:
+/Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/fmt.rs:
+/Users/maksim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/table.rs:
