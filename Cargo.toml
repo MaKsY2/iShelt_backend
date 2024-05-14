@@ -5,7 +5,7 @@ edition = "2021"
 
 [dependencies]
 jsonwebtoken = "9.2.0"
-rocket = "0.5.0-rc.1"
+rocket = { version = "0.5.0-rc.2", features = ["json"] }
 diesel = { version = "2.1.0", features = ["postgres"] }
 dotenvy = "0.15"
 serde = "1.0"
@@ -14,7 +14,3 @@ serde_json = "1.0"
 rocket-jwt = "0.5.2"
 chrono = "0.4.33"
 
-[dependencies.rocket_contrib]
-version = "0.4.11"
-default-features = false
-features = ["json"]

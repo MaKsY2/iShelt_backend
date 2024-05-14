@@ -13,7 +13,7 @@ pub struct LoginResponse {
     pub user: User,
 }
 
-#[derive(Debug, Deserialize, Serialize)]
+#[derive(Deserialize, Serialize)]
 pub struct Claims {
     pub uid: i32,
     pub exp: i64,

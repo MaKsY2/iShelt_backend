@@ -1,7 +1,9 @@
-use diesel::Queryable;
+use diesel::{prelude::Insertable, Queryable};
 use serde_derive::{Deserialize, Serialize};
 
-#[derive(Queryable, Deserialize, Serialize)]
+use crate::schema::placemarks;
+
+#[derive(Queryable, Insertable, Deserialize, Serialize)]
 #[diesel(table_name = placemarks)]
 pub struct Placemark {
     pub post_id: i32,
