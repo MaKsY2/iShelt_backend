@@ -1,19 +1,12 @@
-#[macro_use]
 extern crate rocket;
 
-#[get("/")]
-fn index() -> &'static str {
-    "Hello, world"
-}
+mod auth;
+mod handlers;
 
-#[get("/hello/<name>")]
-fn hello(name: &str) -> String {
-    format!("Hello, {}!", name)
-}
+use crate::handlers::user_handlers::{auth_user, create_user, get_all_users};
 
-#[launch]
+#[rocket::launch]
 fn rocket() -> _ {
-    rocket::build()
-        .mount("/", routes![index])
-        .mount("/", routes![hello])
+    dotenvy::dotenv().ok();
+    rocket::build().mount("/", rocket::routes![auth_user, create_user, get_all_users])
 }

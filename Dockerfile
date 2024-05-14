@@ -12,4 +12,3 @@ RUN rustup default nightly
 RUN cargo build 
 
 CMD [ "cargo", "run" ]
-
